@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 
-    fetch('/assets/data/products.json')
+    fetch('/landing-website/assets/data/products.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error("HTTP error " + response.status);
