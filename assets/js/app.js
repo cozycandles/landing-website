@@ -10,7 +10,7 @@ $(document).ready(function () {
         })
         .then(data => {
             const products = data;
-
+            let output = "";
             $.each(products, function (i, product) {
                 output += `
         <div class="col-md-4 mb-4">
