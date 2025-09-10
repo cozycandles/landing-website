@@ -3,21 +3,21 @@
         "name": "Forest Retreat",
         "description": "Earthy aromas to calm your senses.",
         "price": 500.00,
-        "image": "/assets/images/candle.jpg",
+        "image": "/landing-website/assets/images/candle.jpg",
         "link": "#"
     },
     {
         "name": "Ocean Breeze",
         "description": "Refreshing vanilla & ocean scents.",
         "price": 350.00,
-        "image": "/assets/images/candle.jpg",
+        "image": "/landing-website/assets/images/candle.jpg",
         "link": "#"
     },
     {
         "name": "Winter Bliss",
         "description": "Warm cinnamon & cozy vibes.",
         "price": 759.00,
-        "image": "/assets/images/candle.jpg",
+        "image": "/landing-website/assets/images/candle.jpg",
         "link": "#"
     }
 ]
